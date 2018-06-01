@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stroke">2dp</dimen>
+    <dimen name="redius">5dp</dimen>
+    <dimen name="large_Margin">16dp</dimen>
+    <dimen name="small_Margin">10dp</dimen>
+    <dimen name="larg_text">30sp</dimen>
+</resources>
